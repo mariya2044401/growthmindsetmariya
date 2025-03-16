@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import os
 
-st.set_page_config(page_title= "growth mindset project", project_icon="*")
+st.set_page_config(page_title= "growth mindset project", project_icon="💥")
 st.title("Growth Mindset Challenge: web App with Streamlit")
 
 st.header("Welcome to Your Growth Journey!")
